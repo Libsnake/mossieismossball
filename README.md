@@ -1,8 +1,4 @@
-- 👋 Hi, I’m moss
-- 👀 I’m interested in trying to make a game lmao
-- 🌱 I’m currently learning C# (trying to at least)
-- 💞️ I’m looking to collaborate on game ig lol
-- 📫 How to reach me DM me i guess
+My life is just man.jpeg
 
 <!---
 mossieismossball/mossieismossball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
